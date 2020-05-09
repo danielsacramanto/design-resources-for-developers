@@ -666,3 +666,13 @@
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+
+
+
+
+
+
+
+
+* [Quoteish](https://www.quoteish.org/) - A collection of famous quotes and sayings.
